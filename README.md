@@ -10,7 +10,7 @@ These are some bezels for Gameboy DMG, Pocket, Color, and Advanced I've make for
 <img src="https://github.com/user-attachments/assets/9c3b3b26-21cf-4cb6-8ab7-8df615e0ce1a" alt="Gameboy Pocket" width="500" height="281"> <img src="https://github.com/user-attachments/assets/7cd81bd7-7a44-48b1-9886-29a3aead19e6" alt="Gameboy Pocket Black" width="500" height="281">
 
 ## Gameboy Color
-<img src="https://github.com/Watomsk/RP5_GameBoy_Bezels/blob/main/GBC.png" alt="Gameboy Color" width="500" height="281"> <img src="https://github.com/Watomsk/RP5_GameBoy_Bezels/blob/main/GBC-B.png" alt="Gameboy Color Black" width="500" height="281">
+<img src="https://github.com/user-attachments/assets/8ef0258f-8220-423f-b58c-4d3235580652" alt="Gameboy Color" width="500" height="281"> <img src="https://github.com/user-attachments/assets/bbdc6502-4c47-4926-9863-18e9c7b6c661" alt="Gameboy Color Black" width="500" height="281">
 
 ## Gameboy Advanced
 
