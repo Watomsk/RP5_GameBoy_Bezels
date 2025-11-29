@@ -14,7 +14,6 @@ These are some really simple overlays I've made for RetroArch. These include a v
 
 ## Game Boy Advance
 <img src="https://github.com/user-attachments/assets/95ee3bb6-6956-48cd-8b42-253b93e80346" alt="GBA Black" width="500" height="281">
-<img width="500" height="281" alt="Screenshot_20251129-154344" src="https://github.com/user-attachments/assets/56f0b991-8f42-495e-9513-2f664e4d8f95" />
 <img width="500" height="281" alt="Screenshot_20251129-153517" src="https://github.com/user-attachments/assets/095271a4-0049-41d4-916f-b8959abf6851" />
 
 
