@@ -14,3 +14,19 @@ These are some really simple overlays I've made for RetroArch. These include a v
 
 ## Game Boy Advance
 <img src="https://github.com/user-attachments/assets/95ee3bb6-6956-48cd-8b42-253b93e80346" alt="GBA Black" width="500" height="281">
+
+## NES
+<img width="500" height="281" alt="NES" src="https://github.com/user-attachments/assets/dc852f20-ef0d-4a41-a165-b4c43593857c" />
+
+## Super Nintendo
+<img width="500" height="281" alt="SNES-Red-USA" src="https://github.com/user-attachments/assets/d4566f3d-b423-4929-b9bd-bbb373d76e64" />
+<img width="500" height="281" alt="SNES-Red" src="https://github.com/user-attachments/assets/bb6bddd2-3f4f-4475-8acc-a3775bb0c767" />
+<img width="500" height="281" alt="SNES-Gray-USA" src="https://github.com/user-attachments/assets/b6d9cd0c-fe44-4488-bc10-7853063632f7" />
+<img width="500" height="281" alt="SNES-Gray" src="https://github.com/user-attachments/assets/3d74c612-c76a-41f5-8459-766ecdb64c65" />
+
+## N64
+<img width="500" height="281" alt="N64" src="https://github.com/user-attachments/assets/1eb33cfc-acd9-4486-9ad4-1a4910558c79" />
+
+## PSX
+<img width="500" height="281" alt="PSX" src="https://github.com/user-attachments/assets/83c380ce-47ec-48e3-8773-5a237b9f7272" />
+
