@@ -4,31 +4,41 @@ These are some really simple overlays I've made for RetroArch. These include a v
 
 
 ## Game Boy DMG
-<img src="https://github.com/user-attachments/assets/4ae8e4fc-bd9e-4cc9-af7e-3fa85b6fcf8e" alt="Gameboy DMG Black" width="500" height="281">
+<img width="500" height="281" alt="GB" src="https://github.com/user-attachments/assets/51c179b1-a3f6-4475-9749-18f84226d045" />
 
 ## Game Boy Pocket
-<img src="https://github.com/user-attachments/assets/7cd81bd7-7a44-48b1-9886-29a3aead19e6" alt="Gameboy Pocket Black" width="500" height="281">
+<img width="500" height="281" alt="GBP" src="https://github.com/user-attachments/assets/f7e8ca4e-f716-4484-8162-1a0500a239c9" />
 
 ## Game Boy Color
-<img src="https://github.com/user-attachments/assets/bbdc6502-4c47-4926-9863-18e9c7b6c661" alt="Gameboy Color Black" width="500" height="281">
+<img width="500" height="281" alt="GBC" src="https://github.com/user-attachments/assets/c20b0d02-b4b2-4197-8917-93c09c92d1e4" />
 
 ## Game Boy Advance
-<img src="https://github.com/user-attachments/assets/95ee3bb6-6956-48cd-8b42-253b93e80346" alt="GBA Black" width="500" height="281">
-<img width="500" height="281" alt="Screenshot_20251129-153517" src="https://github.com/user-attachments/assets/095271a4-0049-41d4-916f-b8959abf6851" />
-
+<img width="500" height="281" alt="GBA-Classic" src="https://github.com/user-attachments/assets/d574b6c6-4b54-44ef-9638-0ff808ef0dbd" />
+<img width="500" height="281" alt="GBA-Classic" src="https://github.com/user-attachments/assets/5bbf0823-e18e-4838-9326-9d6aee54abc0" />
+<img width="500" height="281" alt="GBA-SP" src="https://github.com/user-attachments/assets/3a93d7c6-2e76-4e72-a6de-d85baeae46b8" />
 
 ## NES
-<img width="500" height="281" alt="NES" src="https://github.com/user-attachments/assets/dc852f20-ef0d-4a41-a165-b4c43593857c" />
+<img width="500" height="281" alt="NES" src="https://github.com/user-attachments/assets/a7b58ca4-c663-4217-a1dd-d448fd808dfe" />
+<img width="500" height="281" alt="NES-2" src="https://github.com/user-attachments/assets/45ab33f3-74f2-45d9-90f5-da17aedb8d79" />
 
 ## Super Nintendo
-<img width="500" height="281" alt="SNES-Red-USA" src="https://github.com/user-attachments/assets/d4566f3d-b423-4929-b9bd-bbb373d76e64" />
-<img width="500" height="281" alt="SNES-Red" src="https://github.com/user-attachments/assets/bb6bddd2-3f4f-4475-8acc-a3775bb0c767" />
-<img width="500" height="281" alt="SNES-Gray-USA" src="https://github.com/user-attachments/assets/b6d9cd0c-fe44-4488-bc10-7853063632f7" />
-<img width="500" height="281" alt="SNES-Gray" src="https://github.com/user-attachments/assets/3d74c612-c76a-41f5-8459-766ecdb64c65" />
+<img width="500" height="281" alt="SNES-4" src="https://github.com/user-attachments/assets/4614a959-48e4-47e3-b576-c424ed488d73" />
+<img width="500" height="281" alt="SNES-1" src="https://github.com/user-attachments/assets/ccd46b57-4e46-44d1-acf1-7bab35615230" />
+<img width="500" height="281" alt="SNES-2" src="https://github.com/user-attachments/assets/d95f2465-501d-4ab1-b86b-1a61d5e5f26d" />
+<img width="500" height="281" alt="SNES-3" src="https://github.com/user-attachments/assets/9ac68d35-ad57-480a-a761-c520bdbf75be" />
 
 ## N64
-<img width="500" height="281" alt="N64" src="https://github.com/user-attachments/assets/1eb33cfc-acd9-4486-9ad4-1a4910558c79" />
+<img width="500" height="281" alt="N64" src="https://github.com/user-attachments/assets/13137e39-8822-4178-ba84-80b224a6e6c9" />
 
 ## PSX
-<img width="500" height="281" alt="PSX" src="https://github.com/user-attachments/assets/83c380ce-47ec-48e3-8773-5a237b9f7272" />
+<img width="500" height="281" alt="Playstation" src="https://github.com/user-attachments/assets/b74e157c-5359-416b-a7ae-e9ec95606abf" />
+
+## Genesis
+<img width="500" height="281" alt="Genesis" src="https://github.com/user-attachments/assets/a0129612-da5a-4f45-a454-7415b6a24828" />
+<img width="500" height="281" alt="Genesis-Classic" src="https://github.com/user-attachments/assets/c5926e51-46b2-4c28-9d51-8f9ebfa7e14a" />
+<img width="500" height="281" alt="Megadrive" src="https://github.com/user-attachments/assets/01f103d0-577b-4d2f-9a26-234e9a718c7b" />
+
+## Dreamcast
+<img width="500" height="281" alt="Dreamcast" src="https://github.com/user-attachments/assets/4338cdb9-e83a-47eb-915b-e3a5bb851b54" />
+
 
