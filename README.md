@@ -1,6 +1,6 @@
-# 1080p Overlays
+# Overlays
 
-These are some really simple overlays I've made for RetroArch. These include a variety of overlays for consoles and handhelds. I've used these on the Retroid Pocket 5 and AYN Thor, but they should be fine on any 1080p display. These are based on the style of [mugwomp93's overlays for 640x480 devices](https://github.com/mugwomp93/muOS_Customization). Russ from [RetroGameCorps has put together an excellent guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/) on how to use shaders and overlays on RetroArch to get overlays like these working.
+These are some really simple overlays I've made for RetroArch. These include a variety of overlays for consoles and handhelds. I've used these on the Retroid Pocket 5 and AYN Thor, but they should be fine on any 1080p display. I have also made 720p versions that I use on the Retroid Pocket 4 Pro, but should work on any 720p display. These are based on the style of [mugwomp93's overlays for 640x480 devices](https://github.com/mugwomp93/muOS_Customization). Russ from [RetroGameCorps has put together an excellent guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/) on how to use shaders and overlays on RetroArch to get overlays like these working.
 
 
 ## Game Boy DMG
