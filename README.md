@@ -4,7 +4,8 @@ These are some really simple overlays I've made for RetroArch. These include a v
 
 Notes:
 * For the GBA overlays use Integer Scale by opening Retroarch in game and going to Settings > Video > Scaling, and turning ON the Integer Scale option. You will also need to adjust the Viewport Anchor Bias Y to 0.05 value.
-* Depending on which shaders you use you might need to edit the Shader Parameters to make the overlays work. Ex. I personally like the Koko Aio shaders, but I turn off the Bezel and Ambient Lights on the Shader Parameters, and adjust the curvature a bit to make the shader be compatible with the overlays.
+* Depending on which shaders you use you might need to edit the Shader Parameters to make the overlays work. Ex. I personally like the Koko Aio shaders, but I turn off the Bezel and Ambient Lights on the Shader Parameters, to make the shader be compatible with overlays.
+* There are more overlays than the ones shown here. The zip files contain a black and dark gray variant of each overlay, as well as alternative designs for some of them.
 
 ## Game Boy DMG
 <img width="500" height="281" alt="GB" src="https://github.com/user-attachments/assets/51c179b1-a3f6-4475-9749-18f84226d045" />
