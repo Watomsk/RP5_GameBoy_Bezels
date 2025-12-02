@@ -2,6 +2,9 @@
 
 These are some really simple overlays I've made for RetroArch. These include a variety of overlays for consoles and handhelds. I've used these on the Retroid Pocket 5 and AYN Thor, but they should be fine on any 1080p display. I have also made 720p versions that I use on the Retroid Pocket 4 Pro, but should work on any 720p display. These are based on the style of [mugwomp93's overlays for 640x480 devices](https://github.com/mugwomp93/muOS_Customization). Russ from [RetroGameCorps has put together an excellent guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/) on how to use shaders and overlays on RetroArch to get overlays like these working.
 
+Notes:
+* For the GBA overlays use Integer Scale by opening Retroarch in game and going to Settings > Video > Scaling, and turning ON the Integer Scale option. You will also need to adjust the Viewport Anchor Bias Y to 0.05 value.
+* Depending on which shaders you use you might need to edit the Shader Parameters to make the overlays work. Ex. I personally like the Koko Aio shaders, but I turn off the Bezel and Ambient Lights on the Shader Parameters, and adjust the curvature a bit to make the shader be compatible with the overlays.
 
 ## Game Boy DMG
 <img width="500" height="281" alt="GB" src="https://github.com/user-attachments/assets/51c179b1-a3f6-4475-9749-18f84226d045" />
