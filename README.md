@@ -6,7 +6,6 @@ There are more overlays than the ones shown here. The zip files contain a black 
 
 Notes:
 * For the GBA overlays use Integer Scale by opening Retroarch in game and going to Settings > Video > Scaling, and turning ON the Integer Scale option. You will also need to adjust the Viewport Anchor Bias Y to 0.05 value.
-* Depending on which shaders you use you might need to edit the Shader Parameters to make the overlays work. Ex. I personally like the Koko Aio shaders, but I turn off the Bezel and Ambient Lights on the Shader Parameters, to make the shader be compatible with overlays.
 
 
 ## Game Boy DMG
