@@ -42,8 +42,19 @@ Notes:
 <img width="500" height="281" alt="Genesis" src="https://github.com/user-attachments/assets/a0129612-da5a-4f45-a454-7415b6a24828" />
 <img width="500" height="281" alt="Genesis-Classic" src="https://github.com/user-attachments/assets/c5926e51-46b2-4c28-9d51-8f9ebfa7e14a" />
 <img width="500" height="281" alt="Megadrive" src="https://github.com/user-attachments/assets/01f103d0-577b-4d2f-9a26-234e9a718c7b" />
+<img width="500" height="281" alt="SegaCD" src="https://github.com/user-attachments/assets/39ba486a-b245-473e-965f-e9dae5c12636" />
+
+## Saturn
+<img width="500" height="281" alt="Saturn" src="https://github.com/user-attachments/assets/6538850f-3281-4b1d-809b-fa65cf8ba217" />
+<img width="500" height="281" alt="Saturn2" src="https://github.com/user-attachments/assets/ef889cf7-6ee2-4ea2-b9e8-d5f5c1bac5a9" />
 
 ## Dreamcast
 <img width="500" height="281" alt="Dreamcast" src="https://github.com/user-attachments/assets/4338cdb9-e83a-47eb-915b-e3a5bb851b54" />
 
+## Turbografx-16 / PCE
+<img width="500" height="281" alt="Turbografx" src="https://github.com/user-attachments/assets/330a2379-5803-44fd-a26a-fcd42487f354" />
+<img width="500" height="281" alt="PCE" src="https://github.com/user-attachments/assets/51f1d9ba-0cff-4045-ace2-c757b111d509" />
 
+## Arcade
+<img width="500" height="281" alt="Arcade" src="https://github.com/user-attachments/assets/04c0930e-9266-49e3-924c-58e681bc74bc" />
+<img width="500" height="281" alt="Arcade2" src="https://github.com/user-attachments/assets/b0f17e65-814e-430c-83aa-8180c5f6f4e2" />
